@@ -9,6 +9,7 @@ import SocialProof from '@/components/social-proof';
 import PricingTable from '@/components/pricing-table';
 import JoinUs from '@/components/join-us';
 import Footer from '@/components/footer';
+import Order from '@/components/order';
 
 export default function Home() {
   return (
@@ -26,8 +27,9 @@ export default function Home() {
         <SocialProof />
         <PricingTable />
         <JoinUs/>
+       
       </main>
-      <Footer />
+      <Order />
     </Page>
   );
 }

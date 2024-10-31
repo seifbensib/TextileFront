@@ -7,7 +7,7 @@ const JoinUs = () => (
     <div className={tw(`relative max-w-7xl mx-auto mb-24`)}>
       <div className={tw(`overflow-hidden lg:max-w-none lg:flex`)}>
         <div className={tw(`py-8 px-6 md:px-0 lg:flex-shrink-1 lg:w-1/2`)} >
-          <h2 className={tw(`text-4xl lg:text-7xl font-bold text-gray-800 mb-12`)}>Join Us</h2>
+          <h2 className={tw(`text-4xl lg:text-7xl font-bold text-gray-800 mb-12`)}>Submit for a Job</h2>
           <div className={tw(`mt-8`)}>
             <div className={tw(`flex items-center`)}>
               <div className={tw(`flex-1 border-t-2 border-gray-200`)} />
